@@ -1,7 +1,6 @@
 
 # 💫 About Me:
 Hi 👋!My name is Santosh, and I'm a cybersecurity professional, holding a Bachelor's degree in the field. <br>Currently based in Melbourne, I am eager to delve into the dynamic realm of technology and explore its vast horizons.<br> With a passion for safeguarding digital landscapes and a penchant for staying abreast of emerging threats, <br>I aspire to contribute meaningfully to the ever-evolving cybersecurity landscape. <br>Seeking opportunities to apply my knowledge, enhance my skills, and collaborate with like-minded individuals,<br> I aim to make a positive impact in securing digital ecosystems and fortifying defences against cyber threats for organizations and individuals alike.
-<p align="center"><img src="https://github.com/Santosh1210/Santosh1210/blob/main/Gradient%20Cyber%20security%20Internet%20%20Instagram%20post%20.mp4" alt="Bt">
 
 
 
